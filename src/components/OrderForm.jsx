@@ -63,13 +63,6 @@ function OrderForm() {
         value={form.description}
         onChange={handleChange}
       />
-      <input
-        className="w-full px-3 py-2 border rounded text-sm"
-        type="file"
-        name="image"
-        onChange={handleChange}
-        accept="image/*"
-      />
       <button className="w-full bg-blue-800 text-white py-2 rounded hover:bg-blue-900 transition text-sm" type="submit">
         Submit Order
       </button>

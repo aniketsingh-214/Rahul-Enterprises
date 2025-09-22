@@ -6,7 +6,6 @@ function OrderForm() {
     phone: "",
     stickerType: "",
     description: "",
-    image: null,
   });
 
   const handleChange = (e) => {

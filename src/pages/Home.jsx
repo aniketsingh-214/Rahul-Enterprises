@@ -18,7 +18,7 @@ function Home() {
         <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 via-cyan-500 to-blue-600 rounded-xl blur opacity-25 group-hover:opacity-50 transition duration-300"></div>
         <a
           href="/order"
-          className="relative bg-gradient-to-r from-blue-700 via-blue-800 to-blue-700 text-white px-10 py-4 rounded-xl shadow-xl font-bold text-lg md:text-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:from-blue-600 hover:via-blue-700 hover:to-blue-600 border border-blue-600/20 backdrop-blur-sm flex items-center gap-3 group"
+          className="relative bg-gradient-to-r from-blue-700 via-blue-800 to-blue-700 text-white px-4 py-3 rounded-xl shadow-xl font-bold text-sm md:text-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:from-blue-600 hover:via-blue-700 hover:to-blue-600 border border-blue-600/20 backdrop-blur-sm flex items-center gap-3 group"
         >
           <span className="bg-white/10 p-2 rounded-lg group-hover:bg-white/20 transition-all duration-300">
             🛍️
